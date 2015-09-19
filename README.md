@@ -7,6 +7,6 @@ This repository is supposed to be a tool to organize ourselves and to figure out
 What can you do here?
 
 * Participate in the discussion in the [issues](https://github.com/colognerb/refugees/issues)
-* Add yourself to the list of potential organizers/helpers in the [wiki](https://github.com/colognerb/refugees/wiki/List-of-potential-organizers-helpers)
+* Add yourself to the list of potential organizers/helpers in the [wiki](https://github.com/colognerb/refugees/wiki/List-of-potential-organizers-and-helpers)
 * 
 Our first meeting will be on September 26.  Details can be found [here](https://github.com/colognerb/refugees/issues/3)
