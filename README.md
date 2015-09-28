@@ -10,3 +10,33 @@ What can you do here?
 * Add yourself to the list of potential organizers/helpers in the [wiki](https://github.com/colognerb/refugees/wiki/List-of-potential-organizers-and-helpers)
 * 
 Our first meeting will be on September 26.  Details can be found [here](https://github.com/colognerb/refugees/issues/3)
+
+---------------
+
+# Current plan for pilot event
+
+## When
+
+End of November (21/22 or 27/28)
+
+## Duration
+
+Fr evening + Saturday
+
+## Where
+
+Cowoco
+
+## Participants
+
+10 interested refugees from the Cologne region
+
+## Coaches
+
+10 volunteer coaches from the communtiy
+
+https://opentechschool.github.io/slides/presentations/coaching/
+
+## Workshop content
+
+http://guides.railsgirls.com/
