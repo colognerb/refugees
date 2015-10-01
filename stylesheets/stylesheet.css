@@ -538,11 +538,15 @@ header a.button {
 }
 aside a.button {
   display: block;
-  width: 138px;
-  padding-left: 64px;
+  width: 180px; /* 200px - 2*10px */
+  padding-left: 10px;
+  padding-right: 10px;
   margin-bottom: 20px;
   font-size: 21px;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: #2e7bcf;
+  border-radius: 10px;
+  text-align: center;
+  border: 2px solid #222;
 }
 
 code, pre {
