@@ -8,8 +8,8 @@ What can you do here?
 
 * Participate in the discussion in the [issues](https://github.com/colognerb/refugees/issues)
 * Add yourself to the list of potential organizers/helpers in the [wiki](https://github.com/colognerb/refugees/wiki/List-of-potential-organizers-and-helpers)
-* 
-Our first meeting will be on September 26.  Details can be found [here](https://github.com/colognerb/refugees/issues/3)
+* Our first meeting will be on September 26.  Details can be found [here](https://github.com/colognerb/refugees/issues/3)
+* You can join our slack [![Slack Status](https://colognerb.sangyye.net/badge.svg)](http://cologne.refugeesonrails.org/)
 
 ---------------
 
