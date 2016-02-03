@@ -16,6 +16,6 @@ Install the static site generator:
 
 Start the development server:
 
-    $ jekyll serve --watchi
+    $ jekyll serve --watch
 
-The site is not running at http://localhost:4000.
+The site is now running at http://localhost:4000.
