@@ -1,6 +1,12 @@
 language: ruby
 sudo: false
 cache: bundler
+
+# whitelist
+branches:
+  only:
+    - gh-pages
+
 rvm:
   - 2.2.3
 script: bundle exec jekyll build && htmlproof --check-html --disable-external ./_site
