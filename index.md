@@ -101,7 +101,7 @@ There are many ways to help:
 *   You (or your company) could donate some not too old laptops
 *   We are looking for coaches/mentors for our workshop(s)
 *   There are many other areas that need organizing help (editing, design, PR, logistics, anything)
-*   Come to our [weekly orga-meeting](#weekly-meetings)
+*   Come to our [weekly orga-meeting](#when)
 
 # Laptop Donations
 
