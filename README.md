@@ -1,5 +1,7 @@
 # refugeesonrails website
 
+[![Build Status](https://travis-ci.org/colognerb/refugees.svg?branch=master)](https://travis-ci.org/colognerb/refugees)
+
 Find it under http://cologne.refugeesonrails.org or http://colognerb.github.io/refugees/
 
 ## Development
