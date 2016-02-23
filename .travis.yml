@@ -8,7 +8,7 @@ branches:
     - gh-pages
 
 rvm: 2.3.0
-script: bundle exec jekyll build && bundle exec htmlproof -t --check-html --disable-external ./_site
+script: bundle exec jekyll build && bundle exec htmlproof --file-ignore ./_site/index.html --check-html --disable-external ./_site
 install: bundle install
 
 env:
