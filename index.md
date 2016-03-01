@@ -23,7 +23,7 @@ industry.
 We now plan to meet every other week on Thursday nights. The next meeting will
 be on
 
-Thursday February 18th, 19:00
+{{ site.next_meeting | date: "%A %B %-d, %H:%M" }}
 
 # Where?
 
