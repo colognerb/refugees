@@ -3,58 +3,59 @@ title: Refugees On Rails Cologne
 subtitle: Give refugees - and your old laptop - a brighter future!  -- here in Cologne
 ---
 
-# What?
+# About
 
-**Our first two events were weekend workshops teaching refugees from the Cologne
-area web development (with the framework Ruby on Rails) using laptops donated by
-the community. We are now trying to turn it into a regular event.**
+**We are a group of volunteers from the Cologne tech community that provide free mentorship
+to refugees who are interested in learning coding.**
 
-For the **refugees** this is on the one hand an opportunity to use the time that
-they have to learn a new skill and on the other hand a chance to get introduced
-to the local tech community.
+We started in late 2015 and first orgnized some individual weekend workshops. We since moved to a **regular** rhythm of having **mentorship meetings** with the coaches and students **every 2nd Thursday** evening.
 
-For the organizers, coaches and the local tech community it is a way to help
-refugees by doing what we like and what we are good at. It enables close contact
-with our new fellow citizen. And it might help to bring new talent to our
-industry.
+For the **refugees/students** our meetings are an opportunity to use the "downtime" that they currently have (because they are not permitted to work yet) to learn a new skill that will be helpful for them in the future.
+In addition it's a also a lot about networking and cultural exchange, it's a good way to get to know new people form the local tech community.
+
+For us the **coaches, organizers and the local tech community** it is a way to help refugees by doing what we like and what we are good at. It enables close contact with our new fellow citizen. And it might help to bring new talent to our industry.
+
+In addition to the mentorship we are also providing **donated laptops**, which we source from local companies and  individuals, to the refugees so that they can continue learning to code at home.
 
 # When?
 
-We now plan to meet every other week on Thursday nights. The next meeting will
-be on
+We meet every other week on Thursday nights at 19:00.  The next upcoming dates are:
 
-{{ site.next_meeting | date: "%A %B %-d, %H:%M" }}
+* Thursday, March 31
+* Thursday, April 14
+* Thursday, April 28
+* Thursday, May 12
+* Thursday, May 26
+
+Students are welcome to come earlier (starting from 17:00) to work on their projects and the mentorship starts at 19:00.
+
+We use this Doodle poll to keep track of the attendance:  http://doodle.com/poll/vspxtbxfvfxwpdtg
 
 # Where?
 
-Our meetings take place in the Cowoco coworking space in the south of Cologne
+Our meetings take place in the Railslove in the south of Cologne
 
-Coworking Cologne<br>
+Railslove GmbH<br>
 An der Bottmühle 5<br>
 50678 Köln
 
 More information:
 [http://coworkingcologne.de/space/](http://coworkingcologne.de/space/)
 
-# Participants
+# Who is this for?
 
-Interested refugees from the Cologne region.
+Our mentorship meetings are meant for all interested refugees from the Cologne region.
 
-You should have decent English/German skills. Everything else (laptops,
+You should have decent English/German skills and a strong interest in computers. Programming experience very helpful and welcome, but not required.  Everything else (laptops,
 location, drinks, etc.) will be provided by us.
 
-To participate, please fill out our short
-[application form](https://docs.google.com/forms/d/1Fll4mj5iLun1Z5W3UF6fdI1WZg41vpaFpWsHYs0CyRk/viewform),
-get in touch via [Slack](https://colognerb.sangyye.net) or our
-[Google group](https://groups.google.com/forum/#!forum/refugee-code-school-cologne).
+If you want to come to our meetings it would be nice if you put your name into our [scheduling Doodle](http://doodle.com/poll/vspxtbxfvfxwpdtg), but it is not required.
 
-**We still have a handfull of open spots, so apply now and spread the word.**
+# Learning content
 
-# Agenda
+For the meetings, we don't have any particular lessons or a curriculum prepared for the students.  Instead we just havea number of coaches with a wide variety of skills that are happy to provide mentorship in any way that works or to help with little projects that students are working on.
 
-We don't have any particular lesson prepared for you, but you can just continue
-working one of the tutorials from the workshops or we can help you find
-something new. So far we have worked with the following tutorials:
+If you don't already know what you want to learn/get mentorship for, we offer 2 tracks of tutorials that you can do (together with our help):
 
 ## Track 1: HTML for beginners
 
@@ -67,19 +68,15 @@ something new. So far we have worked with the following tutorials:
 
 ## Track 2: Advanced web development (with Ruby on Rails)
 
-*   Our coaches can teach you based on your individual interests and skill levels
-*   If you are new to Rails you can start with the very nice RailsGirls App Tutorial: [http://guides.railsgirls.com/app](http://guides.railsgirls.com/app)
-*   If you want to learn something specific please try to contact us in advance
-*   Having some basic programming experience is recommend
+*   For everybody that already knows a little bit of HTML/Css
+*   RailsGirls App Tutorial: [http://guides.railsgirls.com/app](http://guides.railsgirls.com/app)
+*   Having some basic programming experience is certainly helpful, but not required
 
 # Coaches
 
 Volunteer coaches from the communtiy
 
-If you would consider coaching at the event please leave a comment on the
-[GitHub issue](https://github.com/colognerb/refugees/issues/5), join our
-[Slack chat channel](https://colognerb.sangyye.net/) and come to one of our
-orga-meetings
+If you would consider coaching at at our meetings, just join our [Slack chat channel](https://colognerb.sangyye.net/) and come to one of our orga-meetings
 
 # Who are we?
 
@@ -101,7 +98,6 @@ There are many ways to help:
 *   You (or your company) could donate some not too old laptops
 *   We are looking for coaches/mentors for our workshop(s)
 *   There are many other areas that need organizing help (editing, design, PR, logistics, anything)
-*   Come to our [weekly orga-meeting](#when)
 
 # Laptop Donations
 
@@ -109,25 +105,17 @@ Do you or your company have any old laptops that are not really used for
 anything anymore? You can give your laptops a new life and make a real change
 for on of our refugee participants.
 
-We currently are still in need of 10 more laptops in order to provide for all
-the participants.
-
-Here are the infos on how the donation works:
+Here is how the donation works:
 
 *   We will securely wipe all the data on your laptop(s) for you using military-grade software, so you don't have to worry about that.
-*   Laptops can be dropped of during business hours at the even location (address see above)
+*   Laptops can be dropped of during business hours at Railslove (address see above)
 *   For the laptops to be useful for programming they need to meet the basic requirements of at least a 2 core CPU and 2 GB of RAM.
 *   The laptops remain property of Refugeesonrails, but can be taken home by the participants.
 
 # What are the plans for the future?
 
-We would like to offer regular (e.g. biweekly) informal meetings where
-participants can go, get access to computers, and have professional volunteer
-coaches that they can turn to for help.
+We are still a very young initiative and are very open to new people and new ideas.  So, if you have other ideas what you and the Cologne tech community could do for refugees, please let us know. We are very open for new directions.
 
-If you have other ideas what you and the Cologne tech community could do for
-refugees, please let us know. Our initiative is very open to new directions in
-the future.
 
 # Code of Conduct
 
@@ -139,4 +127,4 @@ Be nice and fantastic to each other. More infos here:
 You can contact us by writing an email to
 [refugeesonrails@gmail.com](mailto:refugeesonrails@gmail.com),
 via [Slack](https://colognerb.sangyye.net/) or in our
-[Google group](https://groups.google.com/forum/#!forum/refugee-code-school-cologne)
+[Google group / Mailinglist](https://groups.google.com/forum/#!forum/refugee-code-school-cologne)
