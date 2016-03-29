@@ -46,14 +46,14 @@ More information:
 
 Our mentorship meetings are meant for all interested refugees from the Cologne region.
 
-You should have decent English/German skills and a strong interest in computers. Programming experience very helpful and welcome, but not required.  Everything else (laptops,
+You should have decent English/German skills and a strong interest in computers. Programming experience is very helpful and welcome, but not required.  Everything else (laptops,
 location, drinks, etc.) will be provided by us.
 
-If you want to come to our meetings it would be nice if you put your name into our [scheduling Doodle](http://doodle.com/poll/vspxtbxfvfxwpdtg), but it is not required.
+If you want to come to our meetings, it would be nice if you put your name into our [scheduling Doodle](http://doodle.com/poll/vspxtbxfvfxwpdtg), but it is not required.
 
 # Learning content
 
-For the meetings, we don't have any particular lessons or a curriculum prepared for the students.  Instead we just havea number of coaches with a wide variety of skills that are happy to provide mentorship in any way that works or to help with little projects that students are working on.
+For the meetings, we don't have any particular lessons or a curriculum prepared for the students.  Instead we just have a number of coaches with a wide variety of skills that are happy to provide mentorship in any way that works or to help with little projects that students are working on.
 
 If you don't already know what you want to learn/get mentorship for, we offer 2 tracks of tutorials that you can do (together with our help):
 
