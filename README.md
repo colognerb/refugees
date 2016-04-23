@@ -14,7 +14,7 @@ directly):
 
 Install the static site generator:
 
-    $ gem install jekyll
+    $ bundle install
 
 Start the development server:
 
