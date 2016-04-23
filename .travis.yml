@@ -7,7 +7,7 @@ branches:
   only:
     - gh-pages
 
-rvm: 2.3.0
+rvm: 2.2.3
 script: bundle exec jekyll build && bundle exec htmlproofer --check-html --disable-external ./_site
 install: bundle install
 
