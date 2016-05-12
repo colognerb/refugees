@@ -76,7 +76,7 @@ If you don't already know what you want to learn/get mentorship for, we offer 2 
 
 Volunteer coaches from the communtiy
 
-If you would consider coaching at at our meetings, just join our [Slack chat channel](https://colognerb.sangyye.net/) and come to one of our orga-meetings
+If you would consider coaching at at our meetings, just join our [Slack chat channel](https://colognerb.herokuapp.com/) and come to one of our orga-meetings
 
 # Who are we?
 
@@ -126,5 +126,5 @@ Be nice and fantastic to each other. More infos here:
 
 You can contact us by writing an email to
 [refugeesonrails@gmail.com](mailto:refugeesonrails@gmail.com),
-via [Slack](https://colognerb.sangyye.net/) or in our
+via [Slack](https://colognerb.herokuapp.com/) or in our
 [Google group / Mailinglist](https://groups.google.com/forum/#!forum/refugee-code-school-cologne)
