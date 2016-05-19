@@ -21,11 +21,12 @@ In addition to the mentorship we are also providing **donated laptops**, which w
 
 We meet every other week on Thursday nights at 19:00.  The next upcoming dates are:
 
-* Thursday, March 31
-* Thursday, April 14
-* Thursday, April 28
 * Thursday, May 12
-* Thursday, May 26
+* ~~Thursday, May 26~~ Wednesday, May 25 (because of Frohnleichname)
+* Thursday, June 9
+* Thursday, June 23
+* Thursday, July 7
+* Thursday, July 21
 
 Students are welcome to come earlier (starting from 17:00) to work on their projects and the mentorship starts at 19:00.
 
