@@ -5,24 +5,24 @@ subtitle: Give refugees - and your old laptop - a brighter future!  -- here in C
 
 # About
 
-**We are a group of volunteers from the Cologne tech community that provide free mentorship
+**We are a group of volunteers from the Cologne tech community that provides free mentorship
 to refugees who are interested in learning coding.**
 
-We started in late 2015 and first orgnized some individual weekend workshops. We since moved to a **regular** rhythm of having **mentorship meetings** with the coaches and students **every 2nd Thursday** evening.
+We started in late 2015 and first orgnized some individual weekend workshops. We since moved to a **regular** rhythm of having **mentorship meetings** with the mentors and students **every 2nd Thursday** evening.
 
-For the **refugees/students** our meetings are an opportunity to use the "downtime" that they currently have (because they are not permitted to work yet) to learn a new skill that will be helpful for them in the future.
-In addition it's a also a lot about networking and cultural exchange, it's a good way to get to know new people form the local tech community.
+For the **refugees/students** our meetings are an opportunity to use the "downtime" that they currently have (since they are not permitted to work yet) to learn a new skill that will be helpful for them in the future.
+In addition other important aspect of our meetings are about networking and cultural exchange, it's a good way to get to know new people form the local tech community.
 
 For us the **coaches, organizers and the local tech community** it is a way to help refugees by doing what we like and what we are good at. It enables close contact with our new fellow citizen. And it might help to bring new talent to our industry.
 
-In addition to the mentorship we are also providing **donated laptops**, which we source from local companies and  individuals, to the refugees so that they can continue learning to code at home.
+In addition to the mentorship we are also providing **donated laptops**, which we source from local companies and individuals, to the refugees so that they can continue learning to code at home.
 
 # When?
 
 We meet every other week on Thursday nights at 19:00.  The next upcoming dates are:
 
 * Thursday, May 12
-* ~~Thursday, May 26~~ Wednesday, May 25 (because of Frohnleichname)
+* ~~Thursday, May 26~~ Wednesday, May 25 (because of Frohnleichnam)
 * Thursday, June 9
 * Thursday, June 23
 * Thursday, July 7
@@ -30,18 +30,17 @@ We meet every other week on Thursday nights at 19:00.  The next upcoming dates a
 
 Students are welcome to come earlier (starting from 17:00) to work on their projects and the mentorship starts at 19:00.
 
-We use this Doodle poll to keep track of the attendance:  http://doodle.com/poll/vspxtbxfvfxwpdtg
+We use this Doodle poll to keep track of the attendance:  [http://doodle.com/poll/vspxtbxfvfxwpdtg](http://doodle.com/poll/vspxtbxfvfxwpdtg)
 
 # Where?
 
-Our meetings take place in the Railslove in the south of Cologne
+Our meetings take place in the Railslove office in the south of Cologne
 
 Railslove GmbH<br>
 An der Bottmühle 5<br>
 50678 Köln
 
-More information:
-[http://coworkingcologne.de/space/](http://coworkingcologne.de/space/)
+[Google Maps](https://www.google.com/maps/place/Railslove+GmbH/@50.9222161,6.9606642,17z/)
 
 # Who is this for?
 
@@ -54,7 +53,7 @@ If you want to come to our meetings, it would be nice if you put your name into 
 
 # Learning content
 
-For the meetings, we don't have any particular lessons or a curriculum prepared for the students.  Instead we just have a number of coaches with a wide variety of skills that are happy to provide mentorship in any way that works or to help with little projects that students are working on.
+For the meetings, we don't have any particular lessons or a curriculum prepared for the students.  Instead we just have a number of mentors with a wide variety of skills that are happy to provide mentorship in any way that works or to help with little projects that students are working on.
 
 If you don't already know what you want to learn/get mentorship for, we offer 2 tracks of tutorials that you can do (together with our help):
 
@@ -69,20 +68,19 @@ If you don't already know what you want to learn/get mentorship for, we offer 2 
 
 ## Track 2: Advanced web development (with Ruby on Rails)
 
-*   For everybody that already knows a little bit of HTML/Css
+*   For everybody that already knows a little bit of HTML/CSS
 *   RailsGirls App Tutorial: [http://guides.railsgirls.com/app](http://guides.railsgirls.com/app)
 *   Having some basic programming experience is certainly helpful, but not required
 
-# Coaches
+# Mentors
 
-Volunteer coaches from the communtiy
+Our mentors are simply volunteer from the communtiy.
 
-If you would consider coaching at at our meetings, just join our [Slack chat channel](https://colognerb.herokuapp.com/) and come to one of our orga-meetings
+If you would consider mentoring at at our meetings, just join our [Slack chat channel](https://colognerb.herokuapp.com/) and come to one of our Thursday-meetings
 
 # Who are we?
 
-We are a group of volunteers from the Cologne tech community who would like to
-use their skill to help refugees here in Cologne
+We are a group of volunteers from the Cologne tech community who would like touse their skills to help refugees here in Cologne
 
 *   Jakob Hilden
 *   Denise Schynol
@@ -98,11 +96,11 @@ There are many ways to help:
 *   Help us reach the right participants in the refugee community
 *   You (or your company) could donate some not too old laptops
 *   We are looking for coaches/mentors for our workshop(s)
-*   There are many other areas that need organizing help (editing, design, PR, logistics, anything)
+*   There are many other areas that need organizing help (editing, design, PR, logistics, marketing, ...)
 
 # Laptop Donations
 
-Do you or your company have any old laptops that are not really used for
+Do you, or your company, have any old laptops that are not really used for
 anything anymore? You can give your laptops a new life and make a real change
 for on of our refugee participants.
 
