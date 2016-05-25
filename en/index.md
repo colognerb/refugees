@@ -122,10 +122,10 @@ We are still a very young initiative and are very open to new people and new ide
 
 Here is a list of articles that were published about our Cologne meetup:
 
-* 25.05. 2016 - Magazin der REWE Group : ["Wolfram Eberius hilft Flüchtlingen Programmieren zu lernen"](http://one.rewe-group.com/magazin/magazin-artikel/item/Article/showMag/tt-04-fluechtlinge-engagements/)
-* 31.03. 2016 - Kölner Stadt-Anzeiger : ["Auch über Computersprache kann man sich verständigen"](http://cologne.refugeesonrails.org/images/ksta-refugees-artikel.jpeg) 
-* 12/2015 - innovations stories : ["Can Skilled Refugees Be a Boon to the German Economy?"](http://innovationsstories.com/can-skilled-refugees-be-a-boon-to-the-german-economy/)
-* 30.11. 2015 - Railslove Blog : ["Refugees on Rails"](https://www.railslove.com/stories/refugees-on-rails)
+* 25.05. 2016 - Magazin der REWE Group : ["Wolfram Eberius hilft Flüchtlingen Programmieren zu lernen"](http://one.rewe-group.com/magazin/magazin-artikel/item/Article/showMag/tt-04-fluechtlinge-engagements/) [de]
+* 31.03. 2016 - Kölner Stadt-Anzeiger : ["Auch über Computersprache kann man sich verständigen"](http://cologne.refugeesonrails.org/images/ksta-refugees-artikel.jpeg) [de]
+* 12/2015 - innovations stories : ["Can Skilled Refugees Be a Boon to the German Economy?"](http://innovationsstories.com/can-skilled-refugees-be-a-boon-to-the-german-economy/) [en]
+* 30.11. 2015 - Railslove Blog : ["Refugees on Rails"](https://www.railslove.com/stories/refugees-on-rails) [en]
 
 
 # Code of Conduct
