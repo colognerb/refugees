@@ -126,6 +126,15 @@ Here is a list of articles that were published about our Cologne meetup:
 * 30.11. 2015 - Railslove Blog : ["Refugees on Rails"](https://www.railslove.com/stories/refugees-on-rails) [en]
 
 
+# Other IT-related offerings for refugees in the area
+
+* At the [C4](https://koeln.ccc.de/) (the local location of the [Chaos Communication Club (CCC)](http://ccc.de/)) there is an **"Brückenbauer" integration course** every Tuesday from 18:00 to 20:00.  It involves language learning, smartphone repairing, socializing, coding, hacking, video gaming and more. If you are interested you can find more information about the C4 in their FAQ](https://koeln.ccc.de/c4/faq/index.xml#kennenlernen) [de]
+
+* The C4 also helps with IT infrastructure (internet access, wifi, ...) for refugee camps in Cologne with their [Chaosnetz](https://chaosnetz.org/) initiative
+
+* **"FlüSchmiede"** is a regular Android/Java development course taking place at the Stadtbibliothek.  The next course will take place on Friday July 22 from 14:00 - 17:00.  You can find more information in this [blogpost](http://www.anderscore.com/news/news-detail/81-flueschmiede-zentralbibliothek/) [de]
+
+
 # Code of Conduct
 
 Be nice and fantastic to each other. More infos here:
