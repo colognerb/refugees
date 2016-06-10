@@ -8,7 +8,7 @@ subtitle: Give refugees - and your old laptop - a brighter future!  -- here in C
 **We are a group of volunteers from the Cologne tech community that provides free mentorship
 to refugees who are interested in learning coding.**
 
-We started in late 2015 and first orgnized some individual weekend workshops. We since moved to a **regular** rhythm of having **mentorship meetings** with the mentors and students **every 2nd Thursday** evening.
+We started in late 2015 and first organized some individual weekend workshops. We since moved to a **regular** rhythm of having **mentorship meetings** with the mentors and students **every 2nd Thursday** evening.
 
 For the **refugees/students** our meetings are an opportunity to use the "downtime" that they currently have (since they are not permitted to work yet) to learn a new skill that will be helpful for them in the future.
 In addition other important aspect of our meetings are about networking and cultural exchange, it's a good way to get to know new people form the local tech community.
@@ -128,7 +128,7 @@ Here is a list of articles that were published about our Cologne meetup:
 
 # Other IT-related offerings for refugees in the area
 
-* At the [C4](https://koeln.ccc.de/) (the local location of the [Chaos Communication Club (CCC)](http://ccc.de/)) there is an **"Brückenbauer" integration course** every Tuesday from 18:00 to 20:00.  It involves language learning, smartphone repairing, socializing, coding, hacking, video gaming and more. If you are interested you can find more information about the C4 in their FAQ](https://koeln.ccc.de/c4/faq/index.xml#kennenlernen) [de]
+* At the [C4](https://koeln.ccc.de/) (the local location of the [Chaos Communication Club (CCC)](http://ccc.de/)) there is an **"Brückenbauer" integration course** every Tuesday from 18:00 to 20:00.  It involves language learning, smartphone repairing, socializing, coding, hacking, video gaming and more. If you are interested you can find more information about the C4 in their [FAQ](https://koeln.ccc.de/c4/faq/index.xml#kennenlernen) [de]
 
 * The C4 also helps with IT infrastructure (internet access, wifi, ...) for refugee camps in Cologne with their [Chaosnetz](https://chaosnetz.org/) initiative
 
