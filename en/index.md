@@ -21,9 +21,9 @@ In addition to the mentorship we are also providing **donated laptops**, which w
 
 We have informal mentoring meetups every second week on Thursday nights at 19:00.
 
-You can find the current/upcoming events on our [Facebook page](https://www.facebook.com/rorcologne/events)
+You can find the current/upcoming events on our [Facebook page](https://www.facebook.com/rorcologne/events).
 
-We plan to offer a structured 3-month web developer course that will start on Thursday September 1.  With biweekly group meetings and weekly coach-assisted exercise time.  We will be using the the curriculum from the [Firehose Project](https://www.thefirehoseproject.com/).
+We plan to offer a structured 3-month web developer course that will start on Thursday September 1.  With biweekly group meetings and weekly coach-assisted exercise time.  We will be using the curriculum from the [Firehose Project](https://www.thefirehoseproject.com/).
 
 If you are interested in joining the class, you should attend at least one of the meetups in August to prepare for it.
 
@@ -45,7 +45,6 @@ Our mentorship meetings are meant for all interested refugees from the Cologne r
 You should have decent English/German skills and a strong interest in computers. Programming experience is very helpful and welcome, but not required.  Everything else (laptops,
 location, drinks, etc.) will be provided by us.
 
-If you want to come to our meetings, it would be nice if you put your name into our [scheduling Doodle](http://doodle.com/poll/vspxtbxfvfxwpdtg), but it is not required.
 
 # Learning content
 
