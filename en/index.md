@@ -19,22 +19,18 @@ In addition to the mentorship we are also providing **donated laptops**, which w
 
 # When?
 
-We meet every other week on Thursday nights at 19:00.  The next upcoming dates are:
+We have informal mentoring meetups every second week on Thursday nights at 19:00.
 
-* Thursday, May 12
-* ~~Thursday, May 26~~ Wednesday, May 25 (because of Frohnleichnam)
-* Thursday, June 9
-* Thursday, June 23
-* Thursday, July 7
-* Thursday, July 21
+You can find the current/upcoming events on our [Facebook page](https://www.facebook.com/rorcologne/events)
 
-Students are welcome to come earlier (starting from 17:00) to work on their projects and the mentorship starts at 19:00.
+We plan to offer a structured 3-month web developer course that will start on Thursday September 1.  With biweekly group meetings and weekly coach-assisted exercise time.  We will be using the the curriculum from the [Firehose Project](https://www.thefirehoseproject.com/).
 
-We use this Doodle poll to keep track of the attendance:  [http://doodle.com/poll/vspxtbxfvfxwpdtg](http://doodle.com/poll/vspxtbxfvfxwpdtg)
+If you are interested in joining the class, you should attend at least one of the meetups in August to prepare for it.
+
 
 # Where?
 
-Our meetings take place in the Railslove office in the south of Cologne
+Our mentoring meetups take place in the Railslove office in the south of Cologne
 
 Railslove GmbH<br>
 An der Bottmühle 5<br>
@@ -87,6 +83,7 @@ We are a group of volunteers from the Cologne tech community who would like tous
 *   Christian Vervoorts
 *   Tatjana Lajendäcker
 *   Tim Fischbach
+*   Natalie Friedrich
 *   and more
 
 # How can I help?
@@ -142,7 +139,7 @@ Be nice and fantastic to each other. More infos here:
 
 # Contact
 
-You can contact us by writing an email to
+You can contact us on our [Facebook Page](https://www.facebook.com/rorcologne/), by writing an email to
 [refugeesonrails@gmail.com](mailto:refugeesonrails@gmail.com),
-via [Slack](https://colognerb.herokuapp.com/) or in our
+via [Slack](https://colognerb.herokuapp.com/), or in our
 [Google group / Mailinglist](https://groups.google.com/forum/#!forum/refugee-code-school-cologne)
