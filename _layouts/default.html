@@ -17,6 +17,8 @@
   </head>
 
   <body>
+    {% include facebook_script_tag.html %}
+
     <header>
       <div class="inner">
         <h1>{{ page.title }}</h1>
@@ -40,6 +42,8 @@
           </a>-->
           <p><a href="https://colognerb.herokuapp.com/">Join our Slack channel</a></p>
           <p class="repo-owner">This page <a href="https://github.com/colognerb/refugees"></a> is maintained by the <a href="https://colognerb.de">Cologne.rb - Ruby User Group</a>.</p>
+
+          {% include facebook_box.html %}
         </aside>
       </div>
     </div>

@@ -499,7 +499,7 @@ header h2 {
 
 aside#sidebar {
   float: right;
-  width: 200px;
+  width: 220px;
   min-height: 504px;
   padding-left: 20px;
   font-size: 12px;
@@ -538,7 +538,7 @@ header a.button {
 }
 aside a.button {
   display: block;
-  width: 180px; /* 200px - 2*10px */
+  width: 200px;
   padding-left: 10px;
   padding-right: 10px;
   margin-bottom: 20px;
