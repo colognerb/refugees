@@ -9,7 +9,7 @@ Find it under http://cologne.refugeesonrails.org or http://colognerb.github.io/r
 Clone the repository (`-b` lets you switch to the `gh-pages` branch
 directly):
 
-    $ git clone git@github.com/colognerb/refugees -b gh-pages
+    $ git clone git@github.com:colognerb/refugees -b gh-pages
     $ cd refugees
 
 Install the static site generator:
@@ -18,6 +18,6 @@ Install the static site generator:
 
 Start the development server:
 
-    $ jekyll serve --watch
+    $ bundle exec jekyll serve --watch
 
 The site is now running at http://localhost:4000.
