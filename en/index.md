@@ -140,6 +140,6 @@ Be nice and fantastic to each other. More infos here:
 # Contact
 
 You can contact us on our [Facebook Page](https://www.facebook.com/rorcologne/), by writing an email to
-[refugeesonrails@gmail.com](mailto:refugeesonrails@gmail.com),
+[cologne@refugeesonrails.org](mailto:cologne@refugeesonrails.org),
 via [Slack](https://colognerb.herokuapp.com/), or in our
 [Google group / Mailinglist](https://groups.google.com/forum/#!forum/refugee-code-school-cologne)
