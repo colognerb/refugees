@@ -21,7 +21,7 @@ In addition to the mentorship we are also providing **donated laptops**, which w
 
 We have informal mentoring meetups every second week on Thursday nights at 19:00.
 
-You can find the current/upcoming events on our [Facebook page](https://www.facebook.com/rorcologne/events).
+You can find the current/upcoming events on our [Facebook page](https://www.facebook.com/rorcologne/events) or [Meetup Page](https://www.meetup.com/Refugees-on-Rails-Cologne/).
 
 We plan to offer a structured 3-month web developer course that will start on Thursday September 1.  With biweekly group meetings and weekly coach-assisted exercise time.  We will be using the curriculum from the [Firehose Project](https://www.thefirehoseproject.com/).
 
