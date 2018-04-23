@@ -45,22 +45,7 @@ location, drinks, etc.) will be provided by us.
 
 For the meetings, we don't have any particular lessons or a curriculum prepared for the students.  Instead we just have a number of mentors with a wide variety of skills that are happy to provide mentorship in any way that works or to help with little projects that students are working on.
 
-If you don't already know what you want to learn/get mentorship for, we offer 2 tracks of tutorials that you can do (together with our help):
-
-## Track 1: HTML for beginners
-
-*   Understand how web pages work
-*   Build your first web page (for example a personal portfolio page)
-*   Apply custom styling with CSS
-*   Create interactive websites with JavaScript
-*   You do not need any previous programming experience for this
-*   This is the tutorial that we will use: [http://code.makery.ch/library/html-css/](http://code.makery.ch/library/html-css/)
-
-## Track 2: Advanced web development (with Ruby on Rails)
-
-*   For everybody that already knows a little bit of HTML/CSS
-*   RailsGirls App Tutorial: [http://guides.railsgirls.com/app](http://guides.railsgirls.com/app)
-*   Having some basic programming experience is certainly helpful, but not required
+If you don't already know what you want to learn/get mentorship for, we offer 2 tracks of tutorials that you can do (together with our help).
 
 # Mentors
 
