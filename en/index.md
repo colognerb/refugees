@@ -8,7 +8,7 @@ subtitle: Give refugees - and your old laptop - a brighter future!  -- here in C
 **We are a group of volunteers from the Cologne tech community that provides free mentorship
 to refugees who are interested in learning coding.**
 
-We started in late 2015 and first organized some individual weekend workshops. We since moved to a **regular** rhythm of having **mentorship meetings** with the mentors and students **every 2nd Thursday** evening.
+We started in late 2015 and first organized some individual weekend workshops. We since moved to a **regular** rhythm of having **mentorship meetings** with the mentors and students **every 3rd Thursday** evening.
 
 For the **refugees/students** our meetings are an opportunity to use the "downtime" that they currently have (since they are not permitted to work yet) to learn a new skill that will be helpful for them in the future.
 In addition other important aspect of our meetings are about networking and cultural exchange, it's a good way to get to know new people form the local tech community.
@@ -19,24 +19,19 @@ In addition to the mentorship we are also providing **donated laptops**, which w
 
 # When?
 
-We have informal mentoring meetups every second week on Thursday nights at 19:00.
+We have informal mentoring meetups every third week on Thursday nights at 19:00.
 
 You can find the current/upcoming events on our [Facebook page](https://www.facebook.com/rorcologne/events) or [Meetup Page](https://www.meetup.com/Refugees-on-Rails-Cologne/).
-
-We plan to offer a structured 3-month web developer course that will start on Thursday September 1.  With biweekly group meetings and weekly coach-assisted exercise time.  We will be using the curriculum from the [Firehose Project](https://www.thefirehoseproject.com/).
-
-If you are interested in joining the class, you should attend at least one of the meetups in August to prepare for it.
-
 
 # Where?
 
 Our mentoring meetups take place in the Railslove office in the south of Cologne
 
-Railslove GmbH<br>
-An der Bottmühle 5<br>
-50678 Köln
+Hack.Institute<br>
+Neue Weyerstrasse 2<br>
+50676 Köln
 
-[Google Maps](https://www.google.com/maps/place/Railslove+GmbH/@50.9222161,6.9606642,17z/)
+[Google Maps](https://maps.google.com?q=hack.institute%20UG%20(haftungsbeschr%C3%A4nkt),%20%E2%80%8B%E2%84%85%20Headquarter%5Bs%5D%20Downtown,%20%E2%80%8BNeue%20Weyerstra%C3%9Fe%202,%2050676%20K%C3%B6ln&ftid=0x47bf2454c79ffc77:0xc73112d35010a48e&hl=de-DE&gl=de)
 
 # Who is this for?
 
@@ -82,7 +77,6 @@ We are a group of volunteers from the Cologne tech community who would like tous
 *   Christian Vervoorts
 *   Tatjana Lajendäcker
 *   Tim Fischbach
-*   Natalie Friedrich
 *   and more
 
 # How can I help?
@@ -127,9 +121,6 @@ Here is a list of articles that were published about our Cologne meetup:
 * At the [C4](https://koeln.ccc.de/) (the local location of the [Chaos Communication Club (CCC)](http://ccc.de/)) there is an **"Brückenbauer" integration course** every Tuesday from 18:00 to 20:00.  It involves language learning, smartphone repairing, socializing, coding, hacking, video gaming and more. If you are interested you can find more information about the C4 in their [FAQ](https://koeln.ccc.de/c4/faq/index.xml#kennenlernen) [de]
 
 * The C4 also helps with IT infrastructure (internet access, wifi, ...) for refugee camps in Cologne with their [Chaosnetz](https://chaosnetz.org/) initiative
-
-* **"FlüSchmiede"** is a regular Android/Java development course taking place at the Stadtbibliothek.  The next course will take place on Friday July 22 from 14:00 - 17:00.  You can find more information in this [blogpost](http://www.anderscore.com/news/news-detail/81-flueschmiede-zentralbibliothek/) [de]
-
 
 # Code of Conduct
 
