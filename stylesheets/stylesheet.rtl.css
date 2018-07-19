@@ -19,6 +19,19 @@ html {
 body {
   margin: 0;
 }
+.lang{
+  background: #ffffff;
+  font-size: 20px;
+  border-radius: 25px;
+  width: 50px;
+  height: 50px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  position: absolute;
+  left: 0;
+  bottom: 5px;
+}
 
 /* HTML5 display definitions
    ========================================================================== */
