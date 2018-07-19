@@ -1,6 +1,7 @@
 ---
 title: Refugees On Rails Cologne
 subtitle: امنح اللاجئين - والكمبيوتر المحمول القديم - مستقبلاً أكثر إشراقًا! - هنا في كولونيا
+layout : rtl
 ---
 
 # حولنا
