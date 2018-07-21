@@ -89,6 +89,19 @@ template {
 a {
   background-color: transparent;
 }
+.lang{
+  background: #ffffff;
+  font-size: 20px;
+  border-radius: 25px;
+  width: 50px;
+  height: 50px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  position: absolute;
+  right: 0;
+  bottom: 5px;
+}
 
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
@@ -481,6 +494,7 @@ header h2 {
   position: relative;
   width: 940px;
   margin: 0 auto;
+  padding-bottom: 50px; 
 }
 
 #content-wrapper {
@@ -876,6 +890,7 @@ footer a:hover {
     content: none;
   }
 }
+
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { }
